@@ -4,13 +4,13 @@ dataLayer.push({
     add: {
       products: [
         {
-          id: "9bdd2",
-          name: "Compton T-Shirt",
+          id: "ID del producto",
+          name: "Nombre del producto",
           price: "44.00",
-          brand: "Compton",
-          category: "T-Shirts",
-          variant: "red",
-          dimension1: "M",
+          brand: "Marca",
+          category: "Categoria",
+          variant: "color",
+          dimension1: "talle",
           position: 0,
           quantity: 1
         }

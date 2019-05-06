@@ -7,24 +7,22 @@ dataLayer.push({
       },
       products: [
         {
-          id: "b55da",
-          name: "Flexigen T-Shirt",
+          id: "ID del producto",
+          name: "Nombre del producto",
           price: "16.00",
-          brand: "Flexigen",
-          category: "T-Shirts",
-          variant: "red",
-          dimension1: "M",
+          category: "Categoria del prodcuto",
+          variant: "Color del producto",
+          dimension1: "Talle del producto",
           position: 0,
           quantity: 1
         },
         {
-          id: "57b9d",
-          name: "Kiosk T-Shirt",
-          price: "55.00",
-          brand: "Kiosk",
-          category: "T-Shirts",
-          variant: "red",
-          dimension1: "M",
+          id: "ID del producto",
+          name: "Nombre del producto",
+          price: "17.00",
+          category: "Categoria del prodcuto",
+          variant: "Color del producto",
+          dimension1: "Talle del producto",
           position: 1,
           quantity: 1
         }
